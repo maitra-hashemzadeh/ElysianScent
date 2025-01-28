@@ -1,0 +1,208 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.box {
+  list-style: none;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.wrap {
+  position: absolute;
+  background-color: rgb(40, 1, 1);
+  width: 250px;
+  height: 400px;
+  border-radius: 10px;
+  margin-top: -450px;
+  margin-left: 100px;
+  border-bottom: 50px;
+}
+.wrap-2 {
+  position: absolute;
+  background-color: rgb(40, 1, 1);
+  width: 250px;
+  height: 400px;
+  border-radius: 10px;
+  /* align-self: center; */
+  margin-top: -450px;
+  margin-left: 650px;
+}
+.wrap-3 {
+  position: absolute;
+  background-color: rgb(40, 1, 1);
+  width: 250px;
+  height: 400px;
+  border-radius: 10px;
+  margin-top: -450px;
+  margin-left: 1200px;
+}
+.wrap-4 {
+  position: absolute;
+  background-color: rgb(40, 1, 1);
+  width: 250px;
+  height: 400px;
+  border-radius: 10px;
+  margin-top: -450px;
+  margin-left: 380px;
+}
+.wrap-5 {
+  position: absolute;
+  background-color: rgb(40, 1, 1);
+  width: 250px;
+  height: 400px;
+  border-radius: 10px;
+  margin-top: -450px;
+  margin-left: 930px;
+}
+.goal {
+  border: 2px solid black;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 500px;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+.option {
+  font-size: 30px;
+  background-color: rgb(103, 72, 72);
+  width: 65px;
+  height: 40px;
+  margin-top: 300px;
+  margin-left: 90px;
+  border-radius: 5px;
+}
+.option-1 {
+  font-size: 30px;
+  background-color: rgb(103, 72, 72);
+  width: 65px;
+  height: 40px;
+  margin-top: 300px;
+  margin-left: 90px;
+  border-radius: 5px;
+}
+.option-2 {
+  font-size: 30px;
+  background-color: rgb(103, 72, 72);
+  width: 65px;
+  height: 40px;
+  margin-top: 300px;
+  margin-left: 90px;
+  border-radius: 5px;
+}
+.option-3 {
+  font-size: 30px;
+  background-color: rgb(103, 72, 72);
+  width: 65px;
+  height: 40px;
+  margin-top: 300px;
+  margin-left: 90px;
+  border-radius: 5px;
+}
+.option-4 {
+  font-size: 30px;
+  background-color: rgb(103, 72, 72);
+  width: 65px;
+  height: 40px;
+  margin-top: 300px;
+  margin-left: 90px;
+  border-radius: 5px;
+}
+.parent {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  position: relative;
+}
+.Dior {
+  width: 150px;
+  height: 150px;
+  margin-top: -900px;
+  margin-left: 50px;
+  margin-bottom: 180px;
+}
+.Yves {
+  width: 150px;
+  height: 150px;
+  margin-top: -900px;
+  margin-left: 50px;
+  margin-bottom: 180px;
+}
+.Marc {
+  width: 150px;
+  height: 150px;
+  margin-top: -900px;
+  margin-left: 50px;
+  margin-bottom: 180px;
+}
+.TomFord {
+  width: 150px;
+  height: 150px;
+  margin-top: -900px;
+  margin-left: 50px;
+  margin-bottom: 180px;
+}
+.Chloé {
+  width: 150px;
+  height: 150px;
+  margin-top: -900px;
+  margin-left: 50px;
+  margin-bottom: 180px;
+}
+.big1 {
+    position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: bisque;
+  margin-top: 220px;
+  margin-left: 70px;
+  margin-bottom: -800px;
+  
+}
+.big2 {
+    position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: bisque;
+  margin-top: 220px;
+  margin-left: 10px;
+  margin-bottom: -800px;
+  word-break: break-word;
+}
+.big3 {
+    position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: bisque;
+  margin-top: 220px;
+  margin-left: 40px;
+  margin-bottom: -800px;
+}
+.big4 {
+    position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: bisque;
+  margin-top: 220px;
+  margin-left: 20px;
+  margin-bottom: -800px;
+}
+.big5 {
+    position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: bisque;
+  margin-top: 220px;
+  margin-left: 30px;
+  margin-bottom: -800px;
+}
