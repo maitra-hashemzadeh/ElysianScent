@@ -213,3 +213,18 @@ margin-top: 10px;
     padding-left: 3px;
     margin-left: 3px;
 }
+@media (max-width:768px) {
+  .parent{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+}
+@media (max-width:768px) {
+  .perfumes{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+}
