@@ -81,8 +81,7 @@ transition: all 1s 1s;
     transition: all 1s 1s;
 }
 .twelve:hover{
-  transform: perspective(100px) skew(-30deg) scalex(1.5);
-  transform-origin: bottom left;
+  transform: skew(-30deg) scale(1.5) translatey(-20px);
     transition: ease 1s 1s;
 }
 .thirteen:hover{
